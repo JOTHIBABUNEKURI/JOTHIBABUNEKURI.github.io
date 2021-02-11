@@ -6,7 +6,7 @@
 
 - CST, 1st Year
 
-##College Name:
+## College Name:
 
 - Sri Vasavi Engineering College
 
