@@ -2,11 +2,13 @@
 
 ## Educational Details:
 
-### Branch, Year;
+## Branch, Year;
 
-**CST, 1st Year
+-CST, 1st Year
 
-**College Name:**Sri Vasavi Engineering College
+##College Name:
+
+-Sri Vasavi Engineering College
 
 ## Skills:
 
