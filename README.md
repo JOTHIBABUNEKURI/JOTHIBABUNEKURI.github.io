@@ -21,4 +21,4 @@
 
 ## Hobbies:
 
-- watching movies & listening music
+- Watching movies & Listening music
