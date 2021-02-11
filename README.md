@@ -2,7 +2,7 @@
 
 ## Educational Details:
 
-**Branch, Year;
+### Branch, Year;
 
 **CST, 1st Year
 
